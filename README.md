@@ -5,11 +5,11 @@ This project aims to forecast a week ahead solar energy via Direct Normal Irradi
 
 ## Project Overview
 
-- ** Dataset:** In this project, we use a dataset from Lowery Power Station covering the period June 2008 to December 2013. This dataset contains Direct Normal irradiance, Globa Horizontal, and other features of Solar Energy. 
+- **Dataset:** In this project, we use a dataset from Lowery Power Station covering the period June 2008 to December 2013. This dataset contains Direct Normal irradiance, Globa Horizontal, and other features of Solar Energy. 
 
-- ** Preprocess Data:** This dataset contains minute data of direct normal irradiance and has some anomalies. We fixed those anomalies, filled in missing values, and converted it to an hourly dataset.
+- **Preprocess Data:** This dataset contains minute data of direct normal irradiance and has some anomalies. We fixed those anomalies, filled in missing values, and converted it to an hourly dataset.
 
-- ** Models:** To forecast Direct Normal Irradiance, we used time series forecasting models
+- **Models:** To forecast Direct Normal Irradiance, we used time series forecasting models
 
      - Exponential Smoothing
      
