@@ -4,4 +4,4 @@ This project aims to forecast a week ahead solar energy via Direct Normal Irradi
 
 
 # Sources
-[1] Lowery Power Station Dataset: [http://dx.doi.org/10.5439/1052550]
+[1] Lowery Power Station Dataset: http://dx.doi.org/10.5439/1052550
