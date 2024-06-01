@@ -11,13 +11,14 @@ This project aims to forecast a week ahead solar energy via Direct Normal Irradi
 
 - **Models:** To forecast Direct Normal Irradiance, we used time series forecasting models
 
-     - Tripple Exponential Smoothing: The univariate exponential smoothing model uses the rolling average technique, in which the weights of previous time stamps decrease               exponentially. In this project, we used an additive version of triple exponential smoothing that can capture the seasonality of time series. 
+     - **Tripple Exponential Smoothing:** The univariate exponential smoothing model uses the rolling average technique, in which the weights of previous time stamps 
+       decrease exponentially. In this project, we used an additive version of triple exponential smoothing that can capture the seasonality of time series. 
      
-     - ARIMA
+     - **ARIMA:**
      
-     - SARIMA
+     - **SARIMA:**
      
-     - SARIMAX
+     - **SARIMAX:**
 
 
 
