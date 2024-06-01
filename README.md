@@ -14,11 +14,14 @@ This project aims to forecast a week ahead solar energy via Direct Normal Irradi
      - **Tripple Exponential Smoothing:** The univariate exponential smoothing model uses the rolling average technique, in which the weights of previous time stamps 
        decrease exponentially. In this project, we used an additive version of triple exponential smoothing that can capture the seasonality of time series. 
      
-     - **ARIMA:**
+     - **ARIMA:** ARIMA is another univariate time series Model that combines autoregressive (AR) terms, differencing (I), and moving average (MA) terms. This 
+       model is suitable for data that can be made stationary through differencing. 
      
-     - **SARIMA:**
+     - **SARIMA:** SARIMA is an extended version of ARIMA that can capture seasonal components of time series data. The dataset in our project represents seasonality, so 
+        SARIMA is a suitable model for our project. 
      
-     - **SARIMAX:**
+     - **SARIMAX:**  SARIMAX extends SARIMA by including exogenous variables in the model. This model is suitable if other features of the time series data play an important 
+       role in forecasting feature values.
 
 
 
