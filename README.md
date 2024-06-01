@@ -3,8 +3,8 @@
 This project aims to forecast a week ahead of Direct Normal Irradiance, which is crucial in solar energy. Nowadays, the adoption of solar energy into the power grid has increased, and it has become essential to accurate forecasts of direct normal irradiance from solar power for the effective operation and maintenance of power systems, ensuring their ability. Photovoltaic panels track the sun to receive more DNI. DNI accounts for a large portion of PV solar energy.
 
 ## Authors
-- [Md Mehedi Hasan] (https://github.com/mmh52)
-- [Kamlesh Sarkar] (https://github.com/ksarkar420)
+- Md Mehedi Hasan (https://github.com/mmh52)
+- Kamlesh Sarkar (https://github.com/ksarkar420)
 
 ## Project Overview
 
