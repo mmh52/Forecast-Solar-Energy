@@ -1,6 +1,6 @@
 # Forecast Direct Normal Irradiance of Solar Energy
 
-This project aims to forecast a week ahead of Direct Normal Irradiance, which is crucial in solar energy. Nowadays, the adoption of solar energy into the power grid has increased, and it has become essential to accurate forecasts of direct normal irradiance from solar power for the effective operation and maintenance of power systems, ensuring their ability. Photovoltaic panels track the sun to receive more DNI. DNI accounts for a large portion of PV solar energy.
+This project aims to forecast short-term and long-term Direct Normal Irradiance, which is crucial in solar energy. Nowadays, the adoption of solar energy into the power grid has increased, and it has become essential to accurate forecasts of direct normal irradiance from solar power for the effective operation and maintenance of power systems, ensuring their ability. Photovoltaic panels track the sun to receive more DNI. DNI accounts for a large portion of PV solar energy.
 
 ## Authors
 - [Md Mehedi Hasan](https://github.com/mmh52)
@@ -26,7 +26,7 @@ This project aims to forecast a week ahead of Direct Normal Irradiance, which is
         SARIMA is a suitable model for our project. 
      
      - **SARIMAX:**  SARIMAX extends SARIMA by including exogenous variables in the model. This model is suitable if other features of the time series data play an important 
-       role in forecasting feature values. In our project, we pick the Global Horizon as an exogenous variable to forecast direct normal irradiance.
+       role in forecasting feature values. In our project, we pick the Zenith Angle as an exogenous variable to forecast direct normal irradiance.
 
 
 ## Future Work 
