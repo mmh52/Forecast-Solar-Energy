@@ -12,6 +12,8 @@ This project aims to forecast a week ahead of Direct Normal Irradiance, which is
 
 - **Preprocess Data:** This dataset contains minute data of direct normal irradiance and has some anomalies. We fixed those anomalies, filled in missing values, and converted it to an hourly dataset.
 
+- **Key performance indicator:** We used RMSE (Root Mean Square Error) metrics to measure the performance of all models based on short-term and long-term forecasting of DNI.
+
 - **Models:** To forecast Direct Normal Irradiance, we used time series forecasting models
 
      - **Tripple Exponential Smoothing:** The univariate exponential smoothing model uses the rolling average technique, in which the weights of previous time stamps 
