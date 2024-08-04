@@ -14,6 +14,8 @@ This project aims to forecast short-term and long-term Direct Normal Irradiance,
 
 - **Key performance indicator:** We used RMSE (Root Mean Square Error) metrics to measure the performance of all models based on short-term and long-term forecasting of DNI.
 
+- **Stakeholders:** Accurate DNI predictions help Operation and Maintenance (O&M) Service Providers in optimizing solar panel orientation for CSP systems and schedule maintenance during low DNI periods to minimize disruption. Also, forecasting DNI aids grid operators in managing solar power integration, balancing supply and demand, maintaining grid stability, and reducing fossil fuel reliance. These predictions are also crucial for assessing the financial viability of solar projects, enabling investors to estimate returns and make informed funding decisions.
+
 - **Models:** To forecast Direct Normal Irradiance, we used time series forecasting models
 
      - **Tripple Exponential Smoothing:** The univariate exponential smoothing model uses the rolling average technique, in which the weights of previous time stamps 
